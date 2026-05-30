@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helpervpdate",
+        "uuid": 828576,
+        "checksum": "fr2qy"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
